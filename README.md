@@ -27,58 +27,65 @@
 
 ## 📈 GitHub Overview
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=radical&border_radius=10&hide_border=true" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff&icon_color=00e5ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff" width="48%" />
 </div>
+
 
 ---
 
 ## ⚡ My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark&area=true&hide_border=true&radius=10" width="95%" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=algolia&no-bg=true&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
 </p>
+
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <th>🧠 Project</th>
-      <th>🔧 Tech Stack</th>
-      <th>🌐 Live</th>
-    </tr>
-    <tr>
-      <td><strong>Netflix UI Clone</strong></td>
-      <td>React.js, CSS</td>
-      <td><a href="https://netflix-clone-tg3x.onrender.com/">🔗 Visit</a></td>
-    </tr>
-    <tr>
-      <td><strong>Internshala Clone</strong></td>
-      <td>HTML, CSS, PHP, MySQL</td>
-      <td><a href="https://github.com/aadityapal123/internshala-clone">🔗 GitHub</a></td>
-    </tr>
-    <tr>
-      <td><strong>YouTube Clone</strong></td>
-      <td>React.js, Firebase</td>
-      <td><a href="https://youtube-clone-webapp.onrender.com/">🔗 Visit</a></td>
-    </tr>
-    <tr>
-      <td><strong>Hotel Booking App</strong></td>
-      <td>React.js, Node.js, MongoDB</td>
-      <td><a href="https://hotelbooking-5qwv.onrender.com/">🔗 Visit</a></td>
-    </tr>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>🧩 Project</th>
+        <th>🔧 Tech Stack</th>
+        <th>🌍 Live Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Netflix UI Clone</strong></td>
+        <td>React.js, CSS</td>
+        <td><a href="https://netflix-clone-tg3x.onrender.com/" target="_blank">🔗 Visit</a></td>
+      </tr>
+      <tr>
+        <td><strong>Internshala Clone</strong></td>
+        <td>HTML, CSS, PHP, MySQL</td>
+        <td><a href="https://github.com/aadityapal123/internshala-clone" target="_blank">🔗 GitHub</a></td>
+      </tr>
+      <tr>
+        <td><strong>YouTube Clone</strong></td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://youtube-clone-webapp.onrender.com/" target="_blank">🔗 Visit</a></td>
+      </tr>
+      <tr>
+        <td><strong>Hotel Booking App</strong></td>
+        <td>React.js, Node.js, MongoDB</td>
+        <td><a href="https://hotelbooking-5qwv.onrender.com/" target="_blank">🔗 Visit</a></td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
@@ -86,19 +93,23 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://aadityapalsagwan-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge&logo=web&color=0abde3" />
+<p align="center" style="gap: 10px; margin-top: 10px;">
+  <a href="https://aadityapalsagwan-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-0abde3?style=for-the-badge&logo=web&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aadityapalsagwan">
+  <a href="https://linkedin.com/in/aadityapalsagwan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:aadityapalsagwan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/aadityapalsagwan">
+  <a href="https://twitter.com/aadityapalsagwan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0abde3&text=Thanks%20for%20visiting!%20Let's%20collaborate%20🚀&fontColor=ffffff" />
 </p>
 
 ---
