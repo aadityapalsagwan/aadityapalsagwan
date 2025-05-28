@@ -1,8 +1,9 @@
-<h1 align="center">✨ Hey there, I'm <span style="color:#00bcd4;">Aaditya Pal</span> 🚀</h1>
-<p align="center"><i>Final Year CSE Student | MERN Stack Developer | Python Enthusiast | AI Explorer</i></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aaditya+Pal;MERN+Stack+Developer+💻;AI+Explorer+🤖;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=440&lines=Building+AI+Assistant+Dubey+🤖;MERN+Stack+Developer+💻;DSA+Solver+%F0%9F%A7%A0;Let's+Create+Something+Awesome+Together+%F0%9F%9A%80" alt="Typing animation" />
+  <i>Final Year CSE Student | MERN Stack Developer | Python Enthusiast | AI Explorer</i>
 </p>
 
 ---
@@ -12,7 +13,7 @@
 - 🎓 Final Year Computer Science Student  
 - 💡 Passionate about building scalable full-stack applications  
 - 🤖 Working on my own AI assistant: `Dubey`  
-- 🧠 Solving DSA challenges regularly  
+- 🧠 Regularly solving DSA challenges  
 - 🌍 Portfolio: [aadityapalsagwan-portfolio.onrender.com](https://aadityapalsagwan-portfolio.onrender.com/)
 
 ---
@@ -27,11 +28,12 @@
 
 ## 📈 GitHub Overview
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff&icon_color=00e5ff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff" width="48%" />
 </div>
-
 
 ---
 
@@ -41,7 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark&area=true&hide_border=true&radius=10" width="95%" />
 </p>
 
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -49,7 +50,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
 </p>
-
 
 ---
 
