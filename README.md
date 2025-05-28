@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Hey,+I'm+Aaditya+Pal!;MERN+Stack+Developer+💻;Python+Coder+🐍;Let's+Build+Something+Great+🚀" alt="Typing SVG">
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #00BCD4; font-weight: 700;">
+  Hi, I'm Aaditya Pal! MERN Stack Developer 💻 | Python Coder 🐍 | Let's Build Something Great 🚀
 </h1>
 
-<p align="center">
-  <i>Final Year CSE Student | MERN Stack Developer | Python Enthusiast</i>
+<p align="center" style="font-style: italic; margin-bottom: 40px;">
+  Final Year CSE Student | MERN Stack Developer | Python Enthusiast
 </p>
 
 ---
@@ -27,11 +27,9 @@
 
 ## 📈 GitHub Overview
 
-<br>
-
-<div align="center">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff&icon_color=00e5ff" width="47%" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00e5ff" width="47%" />
 </div>
 
@@ -39,7 +37,7 @@
 
 ## ⚡ My Contributions
 
-<p align="center">
+<p align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark&area=true&hide_border=true&radius=12&color=00e5ff" width="95%" />
 </p>
 
@@ -47,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="center" style="margin-bottom: 40px;">
   <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
@@ -55,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="margin-bottom: 40px;">
   <tr>
     <td>
       <b>🎬 Netflix UI Clone</b><br/>
@@ -86,14 +84,14 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://aadityapalsagwan-portfolio.onrender.com/" target="_blank">
+<p align="center" style="margin-bottom: 60px;">
+  <a href="https://aadityapalsagwan-portfolio.onrender.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/🌐 Portfolio-0abde3?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aadityapalsagwan" target="_blank">
+  <a href="https://linkedin.com/in/aadityapalsagwan" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aadityapalsagwan@gmail.com">
+  <a href="mailto:aadityapalsagwan@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/aadityapalsagwan" target="_blank">
