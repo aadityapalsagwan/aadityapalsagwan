@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aaditya Pal</h1>
-<p align="center">🚀 Full-Stack MERN Developer | Python & C++ | Firebase | DSA Enthusiast</p>
+<p align="center">🚀 Full-Stack MERN Developer | Python  | JWT |</p>
 
 ---
 
