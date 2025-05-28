@@ -1,78 +1,82 @@
-<h1 align="center">Hi there 👋, I'm Aaditya Pal</h1>
-<p align="center">🚀 Full-Stack MERN Developer | Python | JWT | Firebase | DSA Enthusiast</p>
+<h1 align="center">🚀 Hi there, I'm Aaditya Pal</h1>
+<p align="center"><strong>Final Year CSE Student | MERN Stack Developer | Python Enthusiast | DSA Solver</strong></p>
+<p align="center">🔧 Building full-stack apps and exploring AI with my assistant <b>Dubey</b> 🧠</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year CSE Student
-- 💻 Passionate about Full Stack Web Development
-- 💡 Currently building a **Jarvis-style AI Assistant** named `Dubey`
-- 🛠️ I love creating professional UI/UX experiences
-- 🎯 Solving DSA problems daily
-- 🌐 Portfolio: [aadityapalsagwan-portfolio.onrender.com](https://aadityapalsagwan-portfolio.onrender.com/)
+- 🎓 Final Year Computer Science Student  
+- 💻 Passionate about Full-Stack Development (MERN)  
+- 🤖 Currently building an AI Assistant: `Dubey`  
+- 🧩 Love solving puzzles and DSA problems  
+- 🌐 Portfolio: [aadityapalsagwan-portfolio.onrender.com](https://aadityapalsagwan-portfolio.onrender.com/)  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
+  ![React](https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-65%25-black?style=for-the-badge&logo=next.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge&logo=express)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-brightgreen?style=for-the-badge&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/Firebase-60%25-FFCA28?style=for-the-badge&logo=firebase)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-75%25-06B6D4?style=for-the-badge&logo=tailwindcss)
+  ![Python](https://img.shields.io/badge/Python-85%25-306998?style=for-the-badge&logo=python)
+  ![C++](https://img.shields.io/badge/C++-80%25-00599C?style=for-the-badge&logo=cplusplus)
+  ![JWT](https://img.shields.io/badge/JWT-60%25-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 📊 Activity Graph & Trophies
+## ⚡ GitHub Activity & Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark" alt="GitHub Activity Graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=monokai" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=onedark&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Tech Stack | Live |
-|--------|------------|------|
-| **Netflix UI Clone** | React.js, CSS | [Live Demo](https://netflix-clone-tg3x.onrender.com/) |
-| **YouTube Clone** | React.js, Tailwind CSS | [Live Demo](https://youtube-clone-webapp.onrender.com/) |
-| **Hotel Booking App** | React, Node.js, MongoDB | [Live Demo](https://hotelbooking-5qwv.onrender.com/) |
-| **Internshala Clone** | HTML, CSS, PHP, MySQL | [GitHub](https://github.com/aadityapal123/internshala-clone) |
+| Project | Tech Stack | Live Demo |
+|--------|------------|-----------|
+| **Netflix UI Clone** | React.js, CSS | [🔗 Live](https://netflix-clone-tg3x.onrender.com/) |
+| **Internshala Clone** | HTML, CSS, PHP, MySQL | [🔗 GitHub](https://github.com/aadityapal123/internshala-clone) |
+| **YouTube Clone** | React.js, Firebase | [🔗 Live](https://youtube-clone-webapp.onrender.com/) |
+| **Hotel Booking App** | React.js, Node.js, MongoDB | [🔗 Live](https://hotelbooking-5qwv.onrender.com/) |
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-- 🔗 [Portfolio Website](https://aadityapalsagwan-portfolio.onrender.com/)
-- 💼 [LinkedIn](https://linkedin.com/in/aadityapalsagwan)
-- 📧 Email: `aadityapalsagwan@gmail.com`
-- 🐦 [Twitter](https://twitter.com/aadityapalsagwan)
+<p align="center">
+  <a href="https://aadityapalsagwan-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=for-the-badge&logo=web&color=0abde3" /></a>
+  <a href="https://linkedin.com/in/aadityapalsagwan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:aadityapalsagwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://twitter.com/aadityapalsagwan"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+</p>
 
 ---
 
-> 🔥 *Check out my pinned repos and feel free to collaborate or connect with me!*
+> 🚀 *Explore my repositories, leave a ⭐, and let’s collaborate!*
