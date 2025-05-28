@@ -26,9 +26,9 @@
 
 ## 📈 GitHub Overview
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 50px;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=008080&icon_color=008080" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=008080" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=008080" width="50%" />
 </div>
 
 ---
