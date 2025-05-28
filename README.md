@@ -11,8 +11,7 @@
 ## 🌟 About Me
 
 - 🎓 Final Year Computer Science Student  
-- 💡 Passionate about building scalable full-stack applications  
-- 🧠 Regularly solving Data Structures & Algorithms challenges  
+- 💡 Passionate about building scalable full-stack applications   
 - 🌍 Portfolio: [aadityapalsagwan-portfolio.onrender.com](https://aadityapalsagwan-portfolio.onrender.com/)
 
 ---
@@ -63,23 +62,28 @@
   <tbody>
     <tr style="background-color: #f0f8f8;">
       <td style="padding: 12px 15px; font-weight: 600;">Netflix UI Clone</td>
-      <td style="padding: 12px 15px;">React.js, CSS</td>
-      <td style="padding: 12px 15px;"><a href="https://netflix-clone-tg3x.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Visit</a></td>
+      <td style="padding: 12px 15px;">HTML , CSS , JS</td>
+      <td style="padding: 12px 15px;"><a href="https://netflix-clone-tg3x.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
     </tr>
     <tr style="background-color: #e6f2f2;">
       <td style="padding: 12px 15px; font-weight: 600;">Internshala Clone</td>
       <td style="padding: 12px 15px;">HTML, CSS, PHP, MySQL</td>
-      <td style="padding: 12px 15px;"><a href="https://github.com/aadityapal123/internshala-clone" target="_blank" style="color: #008080; font-weight: 600;">GitHub</a></td>
+      <td style="padding: 12px 15px;"><a href="https://github.com/aadityapalsagwan/Minor-Project-Course-Selling" target="_blank" style="color: #008080; font-weight: 600;">GitHub</a></td>
     </tr>
     <tr style="background-color: #f0f8f8;">
       <td style="padding: 12px 15px; font-weight: 600;">YouTube Clone</td>
-      <td style="padding: 12px 15px;">React.js, Firebase</td>
-      <td style="padding: 12px 15px;"><a href="https://youtube-clone-webapp.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Visit</a></td>
+      <td style="padding: 12px 15px;">HTML , CSS , JS</td>
+      <td style="padding: 12px 15px;"><a href="https://youtube-clone-webapp.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
     </tr>
     <tr style="background-color: #e6f2f2;">
       <td style="padding: 12px 15px; font-weight: 600;">Hotel Booking App</td>
       <td style="padding: 12px 15px;">React.js, Node.js, MongoDB</td>
-      <td style="padding: 12px 15px;"><a href="https://hotelbooking-5qwv.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Visit</a></td>
+      <td style="padding: 12px 15px;"><a href="https://hotelbooking-5qwv.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
+    </tr>
+    <tr style="background-color: #e6f2f2;">
+      <td style="padding: 12px 15px; font-weight: 600;">React Virtual Data Visiulation </td>
+      <td style="padding: 12px 15px;">React.js, Node.js, MongoDB</td>
+      <td style="padding: 12px 15px;"><a href="https://virtual-dashboard-aadityapal.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
     </tr>
   </tbody>
 </table>
@@ -95,10 +99,10 @@
   <a href="https://linkedin.com/in/aadityapalsagwan" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aadityapalsagwan@gmail.com" style="text-decoration: none;">
+  <a href="mailto:aditya.pal40443@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/aadityapalsagwan" target="_blank" style="text-decoration: none;">
+  <a href="https://x.com/adityapalsagwan" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
