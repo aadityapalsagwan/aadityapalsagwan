@@ -85,6 +85,11 @@
       <td style="padding: 12px 15px;">React.js, Node.js, MongoDB</td>
       <td style="padding: 12px 15px;"><a href="https://virtual-dashboard-aadityapal.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
     </tr>
+    <tr style="background-color: #e6f2f2;">
+      <td style="padding: 12px 15px; font-weight: 600;">E-Books Store </td>
+      <td style="padding: 12px 15px;">Vite React.js, Node.js, MongoDB, Cloudinary</td>
+      <td style="padding: 12px 15px;"><a href="https://ebookstore-webapp.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
+    </tr>
   </tbody>
 </table>
 
