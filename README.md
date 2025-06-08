@@ -63,7 +63,7 @@
     <tr style="background-color: #f0f8f8;">
       <td style="padding: 12px 15px; font-weight: 600;">Netflix UI Clone</td>
       <td style="padding: 12px 15px;">HTML , CSS , JS</td>
-      <td style="padding: 12px 15px;"><a href="https://netflix-clone-tg3x.onrender.com/" target="_blank" style="color: #008080; font-weight: 600;">Live On Internet</a></td>
+      <td style="padding: 12px 15px;"><a href="https://github.com/aadityapalsagwan/Netflix-Clone" target="_blank" style="color: #008080; font-weight: 600;">Github</a></td>
     </tr>
     <tr style="background-color: #e6f2f2;">
       <td style="padding: 12px 15px; font-weight: 600;">Internshala Clone</td>
