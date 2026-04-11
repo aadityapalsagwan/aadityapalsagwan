@@ -31,26 +31,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
 ---
