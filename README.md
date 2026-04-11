@@ -1,62 +1,85 @@
-<h1 align="center" style="font-family: 'Fira Code', monospace; font-weight: 800; font-size: 3.2rem; color: #00A3A3;">
-  Aaditya Pal ☁️
-</h1>
-
-<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 500; color: #006666;">
-  Cloud & Linux Engineer 🚀 | AWS | DevOps | Automation ⚡
-</h3>
+# Aaditya Pal ☁️
+### Cloud & Linux Engineer 🚀 | AWS | DevOps | Automation
 
 ---
 
 ## 🌟 About Me
 
-- ☁️ Focused on **Cloud Engineering (AWS)**
-- 🐧 Linux Enthusiast (RedHat, Ubuntu, Server Management)
-- ⚙️ Automating infrastructure & deployments
-- 📦 Building scalable & production-ready systems
-- 🌍 Portfolio:  
-  👉 https://aadityapalsagwan-portfolio.onrender.com/
+- ☁️ Cloud Engineering (AWS)
+- 🐧 Linux (RedHat, Ubuntu, Server Management)
+- ⚙️ Automation & DevOps Learning
+- 🌍 Portfolio: https://aadityapalsagwan-portfolio.onrender.com/
 
 ---
 
 ## 🧠 Core Skills
 
-```bash
-✔ Linux (RedHat, Ubuntu, Server Setup, SSH, Permissions)
-✔ AWS (EC2, S3, IAM, VPC - Learning & Building)
-✔ Shell Scripting / Bash Automation
-✔ Git & GitHub Workflows
-✔ Basic Networking & Security
-✔ Docker (Learning Phase)
+- ✔ Linux (RedHat, Ubuntu, SSH, Permissions)
+- ✔ AWS (EC2, S3, IAM, VPC)
+- ✔ Bash / Shell Scripting
+- ✔ Git & GitHub
+- ✔ Networking & Security Basics
+- ✔ Docker (Learning)
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,aws,docker,bash,python,git,github,nginx,mysql&perline=8" /> </p>
+---
 
-📊 GitHub Stats (Real-Time)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true" width="45%" /> </p>
+## 🛠️ Tech Stack
 
-🔥 Contribution Graph (Live Data)
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark&area=true&hide_border=true" width="95%" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,bash,python,git,github,nginx,mysql" />
+</p>
 
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=onedark&no-frame=true&row=2&column=4" /> </p>
+---
 
-<!--START_SECTION:activity--> <!--END_SECTION:activity-->
+## 📊 GitHub Stats
 
-| 🧩 Project               | 🔧 Tech       | 🚀 Description          |
-| ------------------------ | ------------- | ----------------------- |
-| AWS 2-Tier Architecture  | AWS EC2, VPC  | Scalable infra setup    |
-| Linux Server Setup       | Ubuntu, Nginx | Production-ready server |
-| S3 Static Hosting        | AWS S3        | Website hosting         |
-| Shell Automation Scripts | Bash          | System automation       |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight" width="45%" />
+</p>
 
-🧪 Current Learning
-📦 Docker & Containers
-🔁 CI/CD (GitHub Actions)
-☸️ Kubernetes (Upcoming)
-🏗️ Infrastructure as Code (Terraform)
+---
 
-🔗 Connect With Me
-<p align="center"> <a href="https://aadityapalsagwan-portfolio.onrender.com/"> <img src="https://img.shields.io/badge/Portfolio-00A3A3?style=for-the-badge" /> </a> <a href="https://linkedin.com/in/aadityapalsagwan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /> </a> <a href="mailto:aditya.pal40443@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" /> </a> </p>
+## 🔥 Contribution Graph
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00A3A3&height=100&section=footer&text=Cloud+Engineer+Journey+🚀&fontColor=ffffff" /> </p> ```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=onedark&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## ⚡ Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|--------|------|------------|
+| AWS 2-Tier Architecture | AWS EC2, VPC | Scalable infra |
+| Linux Server Setup | Ubuntu, Nginx | Production server |
+| S3 Static Hosting | AWS S3 | Static website |
+| Bash Scripts | Shell | Automation |
+
+---
+
+## 🔗 Connect
+
+- Portfolio: https://aadityapalsagwan-portfolio.onrender.com/
+- LinkedIn: https://linkedin.com/in/aadityapalsagwan
+- Email: aditya.pal40443@gmail.com
+
+---
+
+⭐ *Always building in Cloud & Linux*
