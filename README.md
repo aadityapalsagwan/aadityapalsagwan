@@ -23,10 +23,10 @@ AWS VPC, EC2, ALB, Aurora, IAM, S3, SSM, Nginx, Node.js
 * ✔ Web, App & DB layers fully separated
 
 **📂 GitHub Repo:**
-👉 https://github.com/aadityapalsagwan/aws-three-tier-architecture
+👉 https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm
 
 **🖼️ Architecture:**
-![Architecture](https://raw.githubusercontent.com/aadityapalsagwan/aws-three-tier-architecture/main/architecture/diagram.png)
+![Architecture]([https://raw.githubusercontent.com/aadityapalsagwan/aws-three-tier-architecture/main/architecture/diagram.png](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm/blob/main/architecture/architecture-diagram.png))
 
 ---
 
