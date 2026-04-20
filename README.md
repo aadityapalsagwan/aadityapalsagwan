@@ -26,7 +26,7 @@ AWS VPC, EC2, ALB, Aurora, IAM, S3, SSM, Nginx, Node.js
 👉 https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm
 
 **🖼️ Architecture:**
-![Architecture]([https://raw.githubusercontent.com/aadityapalsagwan/aws-three-tier-architecture/main/architecture/diagram.png](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm/blob/main/architecture/architecture-diagram.png))
+![Architecture](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm/blob/main/architecture/architecture-diagram.png)
 
 ---
 
