@@ -1,18 +1,29 @@
+# 🚀 GitHub Profile README
+
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=Aaditya%20Pal&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Cloud%20%26%20Linux%20Engineer%20%E2%80%94%20AWS%20%7C%20Bash%20%7C%20DevOps&descSize=17&descAlignY=58&descColor=c9d1d9&animation=fadeIn"/> <div align="center"> <img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/> # Hi 👋, I'm Aaditya Pal 
-### 🚀 Cloud & Linux Engineer | AWS | Bash | DevOps 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=Aaditya%20Pal&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Cloud%20%26%20Linux%20Engineer%20%E2%80%94%20AWS%20%7C%20Bash%20%7C%20DevOps&descSize=17&descAlignY=58&descColor=c9d1d9&animation=fadeIn"/>
+
 <br>
 
+<img src="https://github.com/aadityapalsagwan.png" width="140" alt="profile"/>
+
+# Hi 👋, I'm Aaditya Pal
+
+### 🚀 Cloud & Linux Engineer | AWS | Bash | DevOps
+
 </div>
+
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=☁️+Deploying+on+AWS+since+Day+1;🐧+Linux+%7C+RedHat+%7C+Ubuntu+%7C+Server+Management;⚙️+Bash+Scripting+—+Automate+Everything;🔐+Security-First+Cloud+Architecture;🚀+Fresher+building+production-grade+infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=☁️+Deploying+on+AWS+since+Day+1;🐧+Linux+%7C+RedHat+%7C+Ubuntu+%7C+Server+Management;⚙️+Bash+Scripting+—+Automate+Everything;🔐+Security-First+Cloud+Architecture;🚀+Building+Production-Grade+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -25,182 +36,144 @@
 
 ---
 
-## `$ cat about_me.txt`
+# 💫 About Me
 
 ```yaml
 name        : Aaditya Pal
-role        : Cloud & Linux Engineer (Fresher)
+role        : Cloud & Linux Engineer
 focus       :
-  - AWS Cloud Architecture (EC2, VPC, IAM, ALB, S3, Aurora, SSM)
-  - Linux Administration (RedHat, Ubuntu, Server Management)
-  - Bash / Shell Scripting & Automation
-currently   : Building production-grade AWS projects
-learning    : Docker → CI/CD → Kubernetes → Terraform
-goal        : Become a well-rounded DevOps / Cloud Engineer
-open_to     : Internships, Entry-level Cloud / DevOps roles
-portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
-```
+  - AWS Cloud Infrastructure
+  - Linux Administration
+  - Bash / Shell Automation
+  - DevOps Practices
+learning    :
+  - Docker
+  - CI/CD
+  - Kubernetes
+  - Terraform
+goal        : Become a DevOps & Cloud Engineer
+````
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-|:---|:---|
-| ☁️ **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![SSM](https://img.shields.io/badge/SSM-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| 🐧 **Linux** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
-| ⚙️ **Scripting** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| 🔧 **DevOps** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| 🗄️ **Database** | ![Aurora](https://img.shields.io/badge/Amazon_Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+### ☁️ Cloud & AWS
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge\&logo=amazonec2\&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-232F3E?style=for-the-badge\&logo=amazons3\&logoColor=569A31)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=DD344C)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
 
----
+### 🐧 Linux & OS
 
-## 🏗️ Featured Project
+![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-232F3E?style=for-the-badge\&logo=ubuntu\&logoColor=E95420)
+![RedHat](https://img.shields.io/badge/RedHat-232F3E?style=for-the-badge\&logo=redhat\&logoColor=EE0000)
 
-<div align="center">
+### ⚙️ DevOps & Tools
 
-### AWS Three-Tier Architecture — Production Level
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aadityapalsagwan&repo=three-tier-architecture-aws-ssm&theme=tokyonight&hide_border=true)](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm)
-
-</div>
-
-<br/>
-
-> Designed and deployed a **secure, scalable, and highly available** 3-tier architecture on AWS using industry best practices — no SSH, no hardcoded credentials, complete network layer isolation.
-
-<br/>
-
-**Architecture Diagram:**
-
-<div align="center">
-  <a href="https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm">
-    <img src="https://raw.githubusercontent.com/aadityapalsagwan/three-tier-architecture-aws-ssm/main/architecture/architecture-diagram.png" width="85%" alt="AWS Three-Tier Architecture Diagram"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Design Decision | Implementation | Why It Matters |
-|:---|:---|:---|
-| 🔐 Zero SSH Access | AWS SSM Session Manager | No exposed ports, full audit trail |
-| 🔑 No Hardcoded Secrets | IAM Roles & Instance Profiles | Security best practice |
-| 🌐 High Availability | Multi-AZ Deployment | No single point of failure |
-| 🧱 Layer Isolation | Public → Private → DB Subnets | Blast radius control |
-| 📦 App Deployment | S3 Bucket | Decoupled, versioned deployments |
-| ⚖️ Load Balancing | Application Load Balancer | Distributes traffic across AZs |
-
-</div>
-
-**Tech Used:** `AWS VPC` `EC2` `ALB` `Aurora` `IAM` `S3` `SSM` `Nginx` `Node.js`
-
----
-
-## 📁 Projects
-
-<div align="center">
-
-| # | Project | Stack | Highlights |
-|:---:|:---|:---|:---|
-| 🔥 | [AWS 3-Tier Architecture](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm) | VPC · EC2 · ALB · Aurora · SSM · S3 | Multi-AZ, zero-SSH, prod-grade |
-| 🏗️ | AWS 2-Tier Architecture | EC2 · VPC · RDS | Scalable web + DB separation |
-| 🐧 | Linux Server Setup | Ubuntu · Nginx | Production server config |
-| 🌐 | S3 Static Website | AWS S3 | Fast, low-cost static hosting |
-| ⚙️ | Bash Automation Scripts | Bash · Shell · Cron | Server & system automation |
+![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-232F3E?style=for-the-badge\&logo=nginx\&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🏗️ Featured Project
 
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Aaditya's+GitHub+Stats" 
-    height="170"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" 
-    height="170"
-  />
-</p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aadityapalsagwan\&repo=three-tier-architecture-aws-ssm\&theme=tokyonight\&hide_border=true)](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm)
 
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aadityapalsagwan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="68%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/>
 </div>
 
 ---
 
-## 🏆 Achievements
-
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" 
-  width="100%" 
-  alt="GitHub Trophies"
+src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+height="170"
 />
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=tokyonight&hide_border=true" 
+height="170"
+/>
+
 </div>
 
-## 🗺️ Roadmap
-
-```
-DONE ──────────────────────────────────────────────────────────────── NOW ──── NEXT ─────────
-                                                                                              
-  [✅ Linux]──[✅ AWS Core]──[✅ Bash/Shell]──[✅ Nginx]──[✅ Git]──[🔄 Docker]──[📌 CI/CD]
-                                                                                              
-                                                                       │           │
-                                                            In Progress │     GitHub Actions
-                                                            (containers)│     Terraform
-                                                                                Kubernetes
-                                                                                AWS DevOps Pro
-──────────────────────────────────────────────────────────────────────────────────────────────
-```
-
-| Status | Skills |
-|:---:|:---|
-| ✅ Done | Linux · RedHat · Ubuntu · AWS (EC2/S3/IAM/VPC/ALB/Aurora/SSM) · Bash · Shell · Nginx · Git |
-| 🔄 In Progress | Docker · Containerization |
-| 📌 Next | GitHub Actions · Terraform · Kubernetes (EKS) · AWS DevOps Pro Cert |
-
----
-
-## 🤝 Let's Connect
+<br>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-58a6ff?style=for-the-badge&labelColor=0d1117)](https://aadityapalsagwan-portfolio.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aadityapalsagwan)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aditya.pal40443@gmail.com)
+<img 
+src="https://streak-stats.demolab.com?user=aadityapalsagwan&theme=tokyonight&hide_border=true" 
+width="70%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=tokyo-night&hide_border=true" 
+width="100%"
+/>
 
 </div>
 
 ---
 
+# 🏆 Achievements
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=110&section=footer&animation=fadeIn"/>
-
-*"Infrastructure is only as good as the engineer who designs it."*
-
-**⭐ If my projects helped you — drop a star. It keeps me building.**
+<img 
+src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" 
+width="100%" 
+alt="GitHub Trophies"
+/>
 
 </div>
+
+---
+
+# 🗺️ Current Roadmap
+
+```text
+[✅ Linux] → [✅ AWS] → [✅ Bash] → [🔄 Docker] → [📌 CI/CD] → [📌 Kubernetes]
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://aadityapalsagwan-portfolio.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/aadityapalsagwan)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aditya.pal40443@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer"/>
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</div>
+```
