@@ -1,10 +1,9 @@
 <div align="left">
 <img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/>
 # Hi 👋, I'm Aaditya Pal
-
 </div>
 
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=☁️+Deploying+on+AWS+since+Day+1;🐧+Linux+%7C+RedHat+%7C+Ubuntu+%7C+Server+Management;⚙️+Bash+%2F+Shell+Scripting+—+Automate+Everything;🔐+Security-First+Cloud+Architecture;🚀+Fresher+building+production-grade+infra)](https://git.io/typing-svg)
 
@@ -12,7 +11,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aadityapalsagwan-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/aadityapalsagwan)
@@ -44,7 +43,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<div align="left">
 
 | Category | Technologies |
 |:---|:---|
@@ -81,7 +80,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 | Design Decision | Implementation | Why It Matters |
 |:---|:---|:---|
@@ -100,7 +99,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 📁 Projects
 
-<div align="center">
+<div align="left">
 
 | # | Project | Stack | Highlights |
 |:---:|:---|:---|:---|
@@ -118,17 +117,17 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 <div align="Left">
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" height="170"/> -->
 
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=aadityapalsagwan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="68%"/>
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/>
 </div>
 
@@ -136,8 +135,14 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+<div align="left">
+<a href="https://github.com/aadityapalsagwan">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" 
+    width="100%" 
+    alt="GitHub Trophies"
+  />
+</a>
 </div>
 
 ---
@@ -167,7 +172,7 @@ DONE ─────────────────────────
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-58a6ff?style=for-the-badge&labelColor=0d1117)](https://aadityapalsagwan-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aadityapalsagwan)
