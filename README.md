@@ -1,5 +1,6 @@
 <div align="left">
 <img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/>
+ <br> 
 # Hi 👋, I'm Aaditya Pal
 </div>
 
@@ -72,7 +73,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 **Architecture Diagram:**
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm">
     <img src="https://raw.githubusercontent.com/aadityapalsagwan/three-tier-architecture-aws-ssm/main/architecture/architecture-diagram.png" width="85%" alt="AWS Three-Tier Architecture Diagram"/>
   </a>
@@ -135,7 +136,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 🏆 Achievements
 
-<div align="left">
+<!-- <div align="left">
 <a href="https://github.com/aadityapalsagwan">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" 
@@ -143,7 +144,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
     alt="GitHub Trophies"
   />
 </a>
-</div>
+</div> -->
 
 ---
 
