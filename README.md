@@ -1,6 +1,5 @@
 <div align="left">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=Aaditya%20Pal&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Cloud%20%26%20Linux%20Engineer%20%E2%80%94%20AWS%20%7C%20Bash%20%7C%20DevOps&descSize=17&descAlignY=58&descColor=c9d1d9&animation=fadeIn"/> <div align="center"> <img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/>
+<img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/>
 # Hi 👋, I'm Aaditya Pal
 
 </div>
@@ -61,12 +60,9 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 🏗️ Featured Project
 
-<div align="center">
+<div align="left">
 
 ### AWS Three-Tier Architecture — Production Level
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aadityapalsagwan&repo=three-tier-architecture-aws-ssm&theme=github_dark&hide_border=true)](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm)
-
 </div>
 
 <br/>
@@ -98,7 +94,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 </div>
 
-**Tech Used:** `AWS VPC` `EC2` `ALB` `Aurora` `IAM` `S3` `SSM` `Nginx` `Node.js`
+**Tech Used:** `AWS VPC` `EC2` `ALB` `Aurora` `IAM` `S3` `SSM` `Nginx` `Target Group` `ALb` `Auto Scalling`
 
 ---
 
@@ -120,9 +116,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Aaditya's+GitHub+Stats" height="170"/>
+<div align="Left">
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" height="170"/>
 
@@ -165,7 +159,7 @@ DONE ─────────────────────────
 
 | Status | Skills |
 |:---:|:---|
-| ✅ Done | Linux · RedHat · Ubuntu · AWS (EC2/S3/IAM/VPC/ALB/Aurora/SSM) · Bash · Shell · Nginx · Git |
+| ✅ Done | Linux · RedHat · Ubuntu · AWS (EC2/S3/IAM/VPC/ALB/Aurora/SSM) · Bash · Nginx · Git |
 | 🔄 In Progress | Docker · Containerization |
 | 📌 Next | GitHub Actions · Terraform · Kubernetes (EKS) · AWS DevOps Pro Cert |
 
