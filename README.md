@@ -3,6 +3,7 @@
  <br> 
 # Hi 👋, I'm Aaditya Pal
 </div>
+<br/>
 
 <div align="left">
 
