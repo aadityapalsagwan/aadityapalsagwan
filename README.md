@@ -1,7 +1,8 @@
 <div align="left">
 <img src="https://github.com/aadityapalsagwan.png" width="140" style="border-radius:50%;" alt="profile"/>
  <br> 
-## `Hi 👋, I'm Aaditya Pal`
+ <h1>Hii 👋🏻, I'm Aaditya Pal</h1>
+
 </div>
 <br/>
 
