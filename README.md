@@ -97,16 +97,16 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 
 <br/>
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/aadityapalsagwan">
     <img src="https://github-profile-trophy.vercel.app/?username=aadityapalsagwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
   </a>
-</div>
+</div> -->
 
 <br/>
 
 <div align="left">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/>
 </div>
 
 ---
