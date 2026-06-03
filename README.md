@@ -84,9 +84,9 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aadityapalsagwan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/> -->
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapalsagwan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Most+Used+Languages" height="170"/> -->
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityapalsagwan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f2937" width="100%"/> -->
 </div>
 
 ---
@@ -159,9 +159,9 @@ portfolio   : https://aadityapalsagwan-portfolio.onrender.com/
 |:---:|:---|:---|:---|
 | 🔥 | [AWS 3-Tier Architecture](https://github.com/aadityapalsagwan/three-tier-architecture-aws-ssm) | VPC · EC2 · ALB · Aurora · SSM · S3 | Multi-AZ, zero-SSH, prod-grade |
 | 🏗️ | AWS 2-Tier Architecture | EC2 · VPC · RDS | Scalable web + DB separation |
-| 🐧 | Linux Server Setup | Ubuntu · Nginx | Production server config |
+| 🐧 | [Linux Server Setup](https://github.com/aadityapalsagwan/redhat-linux-web-hosting-project.git) | Ubuntu · Nginx | Production server config |
 | 🌐 | S3 Static Website | AWS S3 | Fast, low-cost static hosting |
-| ⚙️ | Bash Automation Scripts | Bash · Shell · Cron | Server & system automation |
+| ⚙️ | [Bash Automation Scripts](https://github.com/aadityapalsagwan/Shell-Python-Script-Files-For-Linux.git) | Bash · Shell · Cron | Server & system automation |
 
 </div>
 
